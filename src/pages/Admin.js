@@ -79,7 +79,7 @@ function Admin() {
         // Fetch complaints from the backend
         const fetchComplaints = async () => {
             try {
-                const response = await axios.get('http://localhost:8081/api/complaints/getAll');
+                const response = await axios.get("https://your-backend-url.onrender.com/api/complaints/getAll");
                 setComplaints(response.data);
                 updateStatusCounts(response.data);
             } catch (error) {

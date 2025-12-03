@@ -81,30 +81,30 @@ const styles = {
 
 const developers = [
   {
-    name: 'Chinmay Paranjape',
-    image: 'images/chinmay.png', // Corrected path to actual image
-    description: 'Student at KLE Technological University',
+    name: 'Naman Gupta',
+    image: 'images/pHO.jpg', // Corrected path to actual image
+    description: 'Student at CDAC Noida',
     socialMedia: {
-      linkedin: 'https://www.linkedin.com/in/chinmay-paranjape-b0b297230/',
-      github: 'https://github.com/Cap26803',
+      linkedin: 'https://www.linkedin.com/in/guptanaman732/',
+      // github: 'https://github.com/Cap26803',
     },
   },
   {
-    name: 'Kushal Kaparatti',
-    image: 'images/kushal.png', // Corrected path to actual image
-    description: 'Student at KLE Technological University',
+    name: 'Shaurya Chauhan',
+    image: 'images/Shaurya_Chauhan_pic.jpg', // Corrected path to actual image
+    description: 'Student at CDAC Noida',
     socialMedia: {
-      linkedin: 'https://www.linkedin.com/in/kushal-kaparatti-3073a3252/',
-      github: 'https://github.com/kushalkaparatti',
+      linkedin: 'https://www.linkedin.com/in/shaurya-chauhan-874016252/',
+      // github: 'https://github.com/kushalkaparatti',
     },
   },
   {
-    name: 'Prathamesh Chitnis',
+    name: 'Vishvendra Kumar Singh',
     image: 'images/chitnis.jpg', // Corrected path to actual image
-    description: 'Student at KLE Technological University',
+    description: 'Student at CDAC Noida',
     socialMedia: {
       linkedin: 'https://www.linkedin.com/in/prathamesh-chitnis-5b1578249/',
-      github: '#',
+      // github: '#',
     },
   },
 ];
